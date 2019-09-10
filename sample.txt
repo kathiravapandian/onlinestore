@@ -1,1 +1,1 @@
-this is my sample program
+this is my sample example
